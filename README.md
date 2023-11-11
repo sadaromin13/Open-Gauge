@@ -6,4 +6,5 @@ because of this I decided to take matters into my own hands and with the help of
 but with my limited experince and ChatGPT I believe I can make a base eco system that is easily expandable.
 
 [#Revision_1](https://github.com/sadaromin13/Open-Gauge/wiki/%23Revision_1)   |  "TruckSensor"  |  November 7, 2023
-    
+
+[#Revision_2](https://github.com/sadaromin13/Open-Gauge/wiki/%23Revision_2-(Unreleased))  |  "Trucksensor_rev2"  |  November 11, 2023    
