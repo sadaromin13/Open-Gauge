@@ -5,5 +5,5 @@ failure rates end up making the consumer buy marked up replacments from a first 
 because of this I decided to take matters into my own hands and with the help of chat gpt write my first complex code. I have minimal coding experince
 but with my limited experince and ChatGPT I believe I can make a base eco system that is easily expandable.
 
-#Revision_1   |  "TruckSensor"  |  November 7, 2023
+[#Revision_1](https://github.com/sadaromin13/Open-Gauge/wiki/%23Revision_1)   |  "TruckSensor"  |  November 7, 2023
     
